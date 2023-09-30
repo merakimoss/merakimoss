@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=merakimoss)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderfix-lab&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merakimoss)
 5️⃣4️⃣
 ✨✨✨trollface
 <!--
